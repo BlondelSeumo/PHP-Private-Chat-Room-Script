@@ -1,0 +1,25 @@
+Documentation - https://chatnet.oncodes.com/doc/
+
+Update ChatNet to the latest version
+
+VERY IMPORTANT
+---------------
+Prior to the update process, It is VERY IMPORTANT to backup all your existing ChatNet files & database. 
+Please note that we are not responsible for the loss of any data.
+
+♠ Download the latest version from Codecanyon.
+♠ Unzip the contents of the zip file to a folder on your computer.
+♠ Upload and replace the following files and folders in your web server.
+♠ Replace all content inside 'app' folder
+♠ Replace all content inside 'classes' folder
+♠ Replace all content except 'settings.php' inside 'config' folder
+♠ Replace all content inside 'static' folder
+♠ Replace all content inside 'templates' folder
+♠ Replace all content inside 'utils' folder
+♠ Replace all content inside 'vendor' folder
+♠ Replace 'index.php' file
+♠ Make sure updated file permissions are set to 644 and updated folder permissions are set to 775
+♠ Clear your browser cache 
+♠ If you are using Cloudflare purge Cloudflare cache
+
+Please don't hesitate to contact us if you need any help via hello@oncodes.com
